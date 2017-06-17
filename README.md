@@ -1,3 +1,6 @@
+## Changes
+Did a small change to the plugin for it to work with gluu-server.
+
 ## discourse-oauth2-basic
 
 This plugin allows you to use a basic OAuth2 provider as authentication for
